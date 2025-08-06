@@ -3,7 +3,7 @@
 **MetroScrobbler** is a sleek, minimalistic Last.fm scrobbler designed exclusively for **Windows Phone 8.1**.  
 With a native Metro UI and lightweight footprint, it brings Last.fm integration to your legacy device without bloat or complexity.
 
-> ✨ Built for nostalgia. Designed for music lovers.
+> ✨ Built for the music lovers (like me!)
 
 ## 📱 Features
 
