@@ -74,6 +74,8 @@ Feel free to [open an issue](https://github.com/axeltechtips/MetroScrobbler/issu
 ## ❤️ Credits
 
 Developed by Axel
+
+
 Inspired by the simplicity of Windows Phone and the power of music tracking.
 
 
